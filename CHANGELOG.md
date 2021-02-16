@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.10](https://www.github.com/googleapis/java-area120-tables/compare/v0.1.9...v0.1.10) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#114](https://www.github.com/googleapis/java-area120-tables/issues/114)) ([e2657ea](https://www.github.com/googleapis/java-area120-tables/commit/e2657eac38719c7ca6c6b604756d93cf35aef056))
+
 ### [0.1.9](https://www.github.com/googleapis/java-area120-tables/compare/v0.1.8...v0.1.9) (2021-01-14)
 
 
